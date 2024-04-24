@@ -1,4 +1,4 @@
-# Flask Polygon API
+# Flask Map API
 
 I here aims to create an Flask application that will provide API endpoints for various functionalities related to maps and coordinates. For now this application, when provided with coordinates of some places, will make a polygon out of those vertices.
 
